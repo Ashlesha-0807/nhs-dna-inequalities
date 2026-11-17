@@ -17,7 +17,7 @@ An analysis of missed outpatient appointments (DNAs) in England, using NHS Engla
 - [Case study (PDF)](Case%20Study.pdf): the full analysis, methods and limitations
 - [Policy brief (PDF)](Policy%20Brief.pdf): a recommendation for an NHS trust board
 - [Python notebook](dna_analysis.ipynb): cleaning, statistics, data linking and SQL
-- [Power BI file](DNA_Dashboard.pbix): the dashboard
+- [Power BI file](DNA_Dashboard.pbix): the dashboard (download and open in Power BI Desktop)
 - [Trust-level data](nhs_trust_dna_deprivation.csv): 144 NHS trusts with DNA rates and deprivation ranks
 
 ## What I did
